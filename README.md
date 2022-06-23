@@ -59,3 +59,4 @@ result in an increase in the idle time of the service mechanism.
 # Result 
  
 The average number of materials in the system is 4 and the conveyor is 3.2, and average waiting time of each materials in the system is 60 seconds and conveyor is 48 seconds are calculated.
+ 
