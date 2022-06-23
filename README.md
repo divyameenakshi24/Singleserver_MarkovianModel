@@ -2,11 +2,12 @@
 
 # Aim : 
 To find 
-      (a) average  number of materials in the conveyor
-      (b) suitable length of conveyor
-      (c) waitinging time of the material in the conveyor,
-if arrival rate of material  follows poisson process 5 per minuates and serivice rate of lathe machine follows 
-exponential distribution with mean serice rate 6 per minutes.
+      (a) average  number of materials in the system
+      (b) average  number of materials in the conveyor
+      (c) waitinging time of each material in the system
+      (d) waitinging time of each material in the conveyor
+if arrival rate of material  follows poisson process 4 per minuates and serivice rate of lathe machine follows 
+exponential distribution with mean serice rate 5 per minutes.
 
 
 # Software required :  
@@ -42,9 +43,20 @@ result in an increase in the idle time of the service mechanism.
 8. Drag robot manager and robot from visual legacy and place in between two conveyors.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
-# Program :
+# Experiment 
 
+![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
+
+# Program
+
+![image](https://user-images.githubusercontent.com/104613195/175240494-46c23d4d-ddc7-43ae-8fbc-c7da9edb2c83.png)
+
+
+#  Output 
+
+![image](https://user-images.githubusercontent.com/104613195/175240669-9eef6924-f33e-46f9-9c01-988b58480ce3.png)
+
+# Result 
  
-
-# Results and Output : 
+The average number of materials in the system is 4 and the conveyor is 3.2, and average waiting time of each materials in the system is 60 seconds and conveyor is 48 seconds are calculated.
  
